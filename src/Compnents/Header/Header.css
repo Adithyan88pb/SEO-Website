@@ -1,0 +1,21 @@
+.main-Container {
+  
+}
+
+.main-li ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+  list-style: none;
+}
+li a {
+  padding-right: 80px;
+  text-decoration: none;
+  color: white;
+}
+.logo-main {
+  font-size: 20px;
+  color: white;
+}

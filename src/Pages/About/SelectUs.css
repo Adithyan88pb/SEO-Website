@@ -1,0 +1,27 @@
+.main-section {
+}
+
+.main-h1 h1 {
+  color: white;
+}
+.main-p p {
+  color: white;
+}
+
+.main-section .main-card {
+  background: transparent;
+  border: 1px solid white;
+}
+.main-card h5{
+    color: white;
+}
+.main-card p{
+    color: white;
+}
+.main-card div{
+    color: white;
+}
+.main-card img{
+    width:50%;
+    height: 50%;
+}
